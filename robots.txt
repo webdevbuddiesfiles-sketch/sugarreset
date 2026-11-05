@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sugarreset.onrender.com/sitemap.xml
